@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+.blue{
+  background-color: #0f172a;
+}
+
+
+.navcolor{
+  background-color: #1e293b;
+  opacity: 0.9;
+}
