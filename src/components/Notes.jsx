@@ -89,18 +89,18 @@ const Notes = () => {
 
                 <h2 className="text-2xl font-bold text-purple-300 mb-4 border-b-2 border-purple-700 pb-2 pl-2 mt-8">B.B.A Question Papers</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-          <div className={cardStyle}><a href="files/sample.pdf" download="MyDocument.pdf" className={linkStyle}>Semester 1 (M.S.T) 1</a></div>
-          <div className={cardStyle}><a href="files/sample.pdf" download="MyDocument.pdf" className={linkStyle}>Semester 1 (M.S.T) 2</a></div>
-          <div className={cardStyle}><a href="files/sample.pdf" download="MyDocument.pdf" className={linkStyle}>End Semester (End Sem 1)</a></div>
-          <div className={cardStyle}><a href="files/sample.pdf" download="MyDocument.pdf" className={linkStyle}>Semester 2 (M.S.T) 1</a></div>
-          <div className={cardStyle}><a href="files/sample.pdf" download="MyDocument.pdf" className={linkStyle}>Semester 2 (M.S.T) 2</a></div>
-          <div className={cardStyle}><a href="files/sample.pdf" download="MyDocument.pdf" className={linkStyle}>End Semester (End Sem 2)</a></div>
-          <div className={cardStyle}><a href="files/sample.pdf" download="MyDocument.pdf" className={linkStyle}>Semester 3 (M.S.T) 1</a></div>
-          <div className={cardStyle}><a href="files/sample.pdf" download="MyDocument.pdf" className={linkStyle}>Semester 3 (M.S.T) 2</a></div>
-          <div className={cardStyle}><a href="files/sample.pdf" download="MyDocument.pdf" className={linkStyle}>End Semester (End Sem 3)</a></div>
-          <div className={cardStyle}><a href="files/sample.pdf" download="MyDocument.pdf" className={linkStyle}>Semester 4 (M.S.T) 1</a></div>
-          <div className={cardStyle}><a href="files/sample.pdf" download="MyDocument.pdf" className={linkStyle}>Semester 4 (M.S.T) 2</a></div>
-          <div className={cardStyle}><a href="/files/BBAendsem4.pdf" download="MyDocument.pdf" className={linkStyle}>End Semester (End Sem 4)</a></div>
+          <div className={cardStyle}><a href="/files/BBAsem1mst1.pdf" download="/files/BBAsem1mst1.pdf" className={linkStyle}>Semester 1 (M.S.T) 1</a></div>
+          <div className={cardStyle}><a href="/files/BBAsem1mst2.pdf" download="/files/BBAsem1mst2.pdf" className={linkStyle}>Semester 1 (M.S.T) 2</a></div>
+          <div className={cardStyle}><a href="/files/BBAsem1endsem.pdf" download="/files/BBAsem1endsem.pdf" className={linkStyle}>End Semester (End Sem 1)</a></div>
+          <div className={cardStyle}><a href="/files/BBAsem2mst1.pdf" download="/files/BBAsem2mst1.pdf" className={linkStyle}>Semester 2 (M.S.T) 1</a></div>
+          <div className={cardStyle}><a href="/files/BBAsem2mst2.pdf" download="/files/BBAsem2mst2.pdf" className={linkStyle}>Semester 2 (M.S.T) 2</a></div>
+          <div className={cardStyle}><a href="/files/BBAsem2endsem.pdf" download="/files/BBAsem2endsem.pdf" className={linkStyle}>End Semester (End Sem 2)</a></div>
+          <div className={cardStyle}><a href="/files/BBAsem3mst1.pdf" download="/files/BBAsem3mst1.pdf" className={linkStyle}>Semester 3 (M.S.T) 1</a></div>
+          <div className={cardStyle}><a href="/files/BBAsem3mst2.pdf" download="/files/BBAsem3mst2.pdf" className={linkStyle}>Semester 3 (M.S.T) 2</a></div>
+          <div className={cardStyle}><a href="/files/BBAsem3endsem.pdf" download="/files/BBAsem3endsem.pdf" className={linkStyle}>End Semester (End Sem 3)</a></div>
+          <div className={cardStyle}><a href="/files/BBAsem4mst1.pdf" download="/files/BBAsem4mst1.pdf" className={linkStyle}>Semester 4 (M.S.T) 1</a></div>
+          <div className={cardStyle}><a href="/files/BBAsem4mst2.pdf" download="/files/BBAsem4mst2.pdf" className={linkStyle}>Semester 4 (M.S.T) 2</a></div>
+          <div className={cardStyle}><a href="/files/BBAsem4endsem.pdf" download="/files/BBAsem4endsem.pdf" className={linkStyle}>End Semester (End Sem 4)</a></div>
           <div className={cardStyle}><a href="files/sample.pdf" download="MyDocument.pdf" className={linkStyle}>Semester 5 (M.S.T) 1</a></div>
           <div className={cardStyle}><a href="files/sample.pdf" download="MyDocument.pdf" className={linkStyle}>Semester 5 (M.S.T) 2</a></div>
           <div className={cardStyle}><a href="files/sample.pdf" download="MyDocument.pdf" className={linkStyle}>End Semester (End Sem 5)</a></div>
